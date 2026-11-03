@@ -2,7 +2,7 @@
 
 ![Configs](https://img.shields.io/badge/working%20configs-95-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-11-03 11:00 UTC`
+Updated: `2026-11-03 14:00 UTC`
 
 > Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
@@ -50,9 +50,9 @@ https://raw.githubusercontent.com/imnocrew/vpn-configs/master/top100-vless.txt
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
 | VLESS | 8 | 49 |
-| VMESS | 6 | 27 |
+| VMESS | 7 | 28 |
 | TROJAN | 4 | 6 |
-| HY2 | 5 | 13 |
+| HY2 | 5 | 12 |
 
 ---
 
