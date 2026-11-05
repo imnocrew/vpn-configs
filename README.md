@@ -2,7 +2,7 @@
 
 ![Configs](https://img.shields.io/badge/working%20configs-306-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-11-05 14:28 UTC`
+Updated: `2026-11-05 14:33 UTC`
 
 > Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
