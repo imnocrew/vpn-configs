@@ -2,7 +2,7 @@
 
 ![Configs](https://img.shields.io/badge/working%20configs-315-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-11-05 22:38 UTC`
+Updated: `2026-11-05 23:01 UTC`
 
 > Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/imnocrew/vpn-configs/master/top100-vless.txt
 
 Best Shadowsocks (SS) configs sorted strictly by **Download Speed** (isolated subscription):
 
-📄 **[top200-ss.txt](./top200-ss.txt)** (76 configs)
+📄 **[top200-ss.txt](./top200-ss.txt)** (75 configs)
 
 **Subscription URL:**
 ```
