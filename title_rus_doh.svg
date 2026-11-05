@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 48" width="100%" height="48">
+  <defs>
+    <linearGradient id="redPulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444">
+        <animate attributeName="stop-color" values="#ef4444;#ff2a2a;#dc2626;#ef4444" dur="3.5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#b91c1c">
+        <animate attributeName="stop-color" values="#b91c1c;#ef4444;#ff2a2a;#b91c1c" dur="3.5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="redGlow">
+      <feDropShadow dx="0" dy="0" stdDeviation="3.5" flood-color="#ef4444" flood-opacity="0.7">
+        <animate attributeName="flood-opacity" values="0.45;0.85;0.45" dur="3.5s" repeatCount="indefinite" />
+      </feDropShadow>
+    </filter>
+  </defs>
+  <text x="4" y="34" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-weight="900" font-size="28" fill="url(#redPulse)" filter="url(#redGlow)">
+    🔥 Check provider RUS DoH
+  </text>
+</svg>
