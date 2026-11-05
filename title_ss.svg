@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 48" width="100%" height="48">
+  <defs>
+    <linearGradient id="purplePulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#c084fc;#7c3aed;#8b5cf6" dur="4.5s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#6d28d9">
+        <animate attributeName="stop-color" values="#6d28d9;#8b5cf6;#c084fc;#6d28d9" dur="4.5s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="purpleGlow">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#8b5cf6" flood-opacity="0.55">
+        <animate attributeName="flood-opacity" values="0.35;0.75;0.35" dur="4.5s" repeatCount="indefinite" />
+      </feDropShadow>
+    </filter>
+  </defs>
+  <text x="4" y="34" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-weight="800" font-size="28" fill="url(#purplePulse)" filter="url(#purpleGlow)">
+    ⚡ Top 200 Fastest Shadowsocks (SS)
+  </text>
+</svg>
