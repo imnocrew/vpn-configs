@@ -2,7 +2,7 @@
 
 ![Configs](https://img.shields.io/badge/working%20configs-410-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-11-07 17:02 UTC`
+Updated: `2026-11-07 20:02 UTC`
 
 > Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/imnocrew/vpn-configs/master/top200.txt
 
 RU IP VPN
 
-📄 **[ru.txt](./ru.txt)** (93 configs)
+📄 **[ru.txt](./ru.txt)** (94 configs)
 
 **Subscription URL:**
 ```
