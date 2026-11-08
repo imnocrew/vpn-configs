@@ -1,8 +1,8 @@
 <p align="left"><img src="./header.svg" alt="VPN Configs Black Lists" width="650" /></p>
 
-![Configs](https://img.shields.io/badge/working%20configs-418-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
+![Configs](https://img.shields.io/badge/working%20configs-302-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-11-08 05:02 UTC`
+Updated: `2026-11-08 08:01 UTC`
 
 > Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
@@ -10,7 +10,7 @@ Updated: `2026-11-08 05:02 UTC`
 
 Best 200 configs sorted strictly by **Download Speed** across VLESS, VMess, Trojan, Hysteria2 (**Global only, RU excluded**):
 
-📄 **[top200.txt](./top200.txt)** (180 configs)
+📄 **[top200.txt](./top200.txt)** (200 configs)
 
 **Subscription URL:**
 ```
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/imnocrew/vpn-configs/master/top200.txt
 
 RU IP VPN
 
-📄 **[ru.txt](./ru.txt)** (82 configs)
+📄 **[ru.txt](./ru.txt)** (67 configs)
 
 **Subscription URL:**
 ```
@@ -62,10 +62,10 @@ https://raw.githubusercontent.com/imnocrew/vpn-configs/master/top200-ss.txt
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 10 | 279 |
-| VMESS | 7 | 64 |
-| TROJAN | 8 | 29 |
-| HY2 | 7 | 46 |
+| VLESS | 10 | 204 |
+| VMESS | 7 | 44 |
+| TROJAN | 8 | 27 |
+| HY2 | 6 | 27 |
 
 ---
 
