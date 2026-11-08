@@ -1,8 +1,8 @@
 <p align="left"><img src="./header.svg" alt="VPN Configs Black Lists" width="650" /></p>
 
-![Configs](https://img.shields.io/badge/working%20configs-302-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
+![Configs](https://img.shields.io/badge/working%20configs-313-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-11-08 08:01 UTC`
+Updated: `2026-11-08 11:01 UTC`
 
 > Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/imnocrew/vpn-configs/master/top200.txt
 
 RU IP VPN
 
-📄 **[ru.txt](./ru.txt)** (67 configs)
+📄 **[ru.txt](./ru.txt)** (69 configs)
 
 **Subscription URL:**
 ```
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/imnocrew/vpn-configs/master/top100-vless.txt
 
 Best Shadowsocks (SS) configs sorted strictly by **Download Speed** (isolated subscription):
 
-📄 **[top200-ss.txt](./top200-ss.txt)** (90 configs)
+📄 **[top200-ss.txt](./top200-ss.txt)** (89 configs)
 
 **Subscription URL:**
 ```
@@ -62,10 +62,10 @@ https://raw.githubusercontent.com/imnocrew/vpn-configs/master/top200-ss.txt
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 10 | 204 |
+| VLESS | 10 | 210 |
 | VMESS | 7 | 44 |
-| TROJAN | 8 | 27 |
-| HY2 | 6 | 27 |
+| TROJAN | 8 | 29 |
+| HY2 | 6 | 30 |
 
 ---
 
